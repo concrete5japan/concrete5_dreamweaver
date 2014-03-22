@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="03.SiteNameAndLink" description="displays the site name and link to top page" preview="code" type="block"><insertText location="beforeSelection"><![CDATA[<a href="<?php echo DIR_REL?>/"><?php echo SITE?></a>.]]></insertText><insertText location="afterSelection"><![CDATA[]]></insertText></snippet>

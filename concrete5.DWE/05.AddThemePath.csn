@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="05.AddThemePath" description="" preview="code" type="block"><insertText location="beforeSelection"><![CDATA[<?php echo $this->getThemePath(); ?>/]]></insertText><insertText location="afterSelection"><![CDATA[]]></insertText></snippet>

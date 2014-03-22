@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="04.C5HeaderElement" description="insert to load the header element" preview="code" type="block"><insertText location="beforeSelection"><![CDATA[<?php Loader::element('header_required'); ?>]]></insertText><insertText location="afterSelection"><![CDATA[]]></insertText></snippet>

@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="Root(DIR_REL)" description="insert concrete5 path" preview="code" type="block"><insertText location="beforeSelection"><![CDATA[<?php echo DIR_REL?>]]></insertText><insertText location="afterSelection"><![CDATA[]]></insertText></snippet>

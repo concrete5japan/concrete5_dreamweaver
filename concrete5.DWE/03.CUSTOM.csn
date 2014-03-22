@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="03.CUSTOM" description="use it if you want to include any other files" preview="code" type="block"><insertText location="beforeSelection"><![CDATA[<?php $this->inc(''); ?>]]></insertText><insertText location="afterSelection"><![CDATA[]]></insertText></snippet>

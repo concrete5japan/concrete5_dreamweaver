@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="04.AllRightsReserved" description="All rights reserved in a different languages" preview="code" type="block"><insertText location="beforeSelection"><![CDATA[<?php echo t('All rights reserved.')?>]]></insertText><insertText location="afterSelection"><![CDATA[]]></insertText></snippet>

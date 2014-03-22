@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="Theme+images" description="if you created images folder" preview="code" type="block"><insertText location="beforeSelection"><![CDATA[<?php echo $this->getThemePath(); ?>/images/]]></insertText><insertText location="afterSelection"><![CDATA[]]></insertText></snippet>

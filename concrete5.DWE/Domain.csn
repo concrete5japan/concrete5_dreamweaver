@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="Domain" description="displays site's domain" preview="code" type="block"><insertText location="beforeSelection"><![CDATA[<?php echo BASE_URL?>]]></insertText><insertText location="afterSelection"><![CDATA[]]></insertText></snippet>
