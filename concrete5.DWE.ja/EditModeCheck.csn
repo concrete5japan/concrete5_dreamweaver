@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="編集モードかチェック" description="編集モードであれば、選択した範囲のHTMLを表示します。" preview="code" type="wrap"><insertText location="beforeSelection"><![CDATA[	<?php  if ($c->isEditMode()) { ?>	<!-- 編集モードここから -->]]></insertText><insertText location="afterSelection"><![CDATA[	<!-- 編集モードここまで -->	<?php  } ?>]]></insertText></snippet>

@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="01.直接アクセス拒否" description="このファイルに直接アクセスされない為のおまじないです" preview="code" type="block"><insertText location="beforeSelection"><![CDATA[<?php  defined('C5_EXECUTE') or die(_("Access Denied.")); ?>]]></insertText><insertText location="afterSelection"><![CDATA[]]></insertText></snippet>

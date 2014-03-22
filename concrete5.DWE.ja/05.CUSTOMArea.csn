@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="05.任意エリア用" description="その他の名前のエリアを挿入されたい方用" preview="code" type="block"><insertText location="beforeSelection"><![CDATA[	<?php 	$a = new Area('');	$a->display($c);	?>]]></insertText><insertText location="afterSelection"><![CDATA[]]></insertText></snippet>

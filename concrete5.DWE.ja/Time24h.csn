@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="時刻 24時表示" description="今の時刻を24時間方式で表示します" preview="code" type="wrap"><insertText location="beforeSelection"><![CDATA[<?php echo date('H:i')?>]]></insertText><insertText location="afterSelection"><![CDATA[]]></insertText></snippet>

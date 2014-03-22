@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="07.Mainエリア" description="Mainエリアを body ID属性の入ったDIVで囲ってあります" preview="code" type="block"><insertText location="beforeSelection"><![CDATA[		<div id="body">				<?php 			$a = new Area('Main');			$a->display($c);						?>		</div>]]></insertText><insertText location="afterSelection"><![CDATA[]]></insertText></snippet>

@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="テーマ+images" description="テーマ + images ディレクトリーまでのパスを挿入します。" preview="code" type="block"><insertText location="beforeSelection"><![CDATA[<?php echo $this->getThemePath(); ?>/images/]]></insertText><insertText location="afterSelection"><![CDATA[]]></insertText></snippet>

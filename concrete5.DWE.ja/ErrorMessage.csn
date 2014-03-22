@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="エラーメッセージ用" description="システムエラーメッセージを指示する用です。" preview="code" type="block"><insertText location="beforeSelection"><![CDATA[/* concrete5 システムエラーメッセージ用 */div.ccm-error-response {color: #f00; margin-bottom: 12px}]]></insertText><insertText location="afterSelection"><![CDATA[]]></insertText></snippet>

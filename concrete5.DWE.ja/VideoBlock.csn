@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="ビデオブロック用" description="ビデオブロック周りのCSS要素集です" preview="code" type="block"><insertText location="beforeSelection"><![CDATA[/*ビデオブロック用 */div.ccm-flv-player {}]]></insertText><insertText location="afterSelection"><![CDATA[]]></insertText></snippet>
