@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="Logout URL" description="insert a logout URL" preview="code" type="block"><insertText location="beforeSelection"><![CDATA[<?php echo $this->url('/login', 'logout')?>]]></insertText><insertText location="afterSelection"><![CDATA[]]></insertText></snippet>

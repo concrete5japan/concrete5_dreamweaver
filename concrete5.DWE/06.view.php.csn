@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="06.view.php" description="this is view.php area for packaged application" preview="code" type="wrap"><insertText location="beforeSelection"><![CDATA[	<?php 	print $innerContent;	?>]]></insertText><insertText location="afterSelection"><![CDATA[]]></insertText></snippet>

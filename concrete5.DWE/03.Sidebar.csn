@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="03.Sidebar" description="insert a simple sidebar block" preview="code" type="block"><insertText location="beforeSelection"><![CDATA[	<?php 	$as = new Area('Sidebar');	$as->display($c);	?>		]]></insertText><insertText location="afterSelection"><![CDATA[]]></insertText></snippet>

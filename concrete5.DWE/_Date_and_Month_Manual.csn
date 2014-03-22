@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="!!_Date_and_Month_Manual" description="" preview="code" type="block"><insertText location="beforeSelection"><![CDATA[<!--For more information about date format, visithttp://www.php.net/manual/en/function.date.php-->]]></insertText><insertText location="afterSelection"><![CDATA[]]></insertText></snippet>

@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="NameSite" description="insert a name of concrete5 site" preview="code" type="block"><insertText location="beforeSelection"><![CDATA[<?php echo SITE?>]]></insertText><insertText location="afterSelection"><![CDATA[]]></insertText></snippet>

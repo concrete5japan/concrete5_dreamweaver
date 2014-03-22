@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="06-2.Header" description="" preview="code" type="block"><insertText location="beforeSelection"><![CDATA[	<?php 				$ah = new Area('Header');	$ah->display($c);				?>	]]></insertText><insertText location="afterSelection"><![CDATA[]]></insertText></snippet>

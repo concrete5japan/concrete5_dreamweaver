@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="01.Header.php" description="include elements/header.php" preview="code" type="block"><insertText location="beforeSelection"><![CDATA[<?php $this->inc('elements/header.php'); ?>]]></insertText><insertText location="afterSelection"><![CDATA[]]></insertText></snippet>
