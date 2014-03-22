@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="ログインURL" description="ログイン用のURLが挿入されます。" preview="code" type="block"><insertText location="beforeSelection"><![CDATA[<?php echo $this->url('/login')?>]]></insertText><insertText location="afterSelection"><![CDATA[]]></insertText></snippet>

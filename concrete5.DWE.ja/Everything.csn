@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="全て日付時刻" description="今日の年月日、曜日、時刻を表示します。" preview="code" type="wrap"><insertText location="beforeSelection"><![CDATA[<?php echo date(''Y年m月d日 l a g:i')?>]]></insertText><insertText location="afterSelection"><![CDATA[]]></insertText></snippet>

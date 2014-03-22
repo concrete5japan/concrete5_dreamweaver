@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="サイト名" description="サイト名が挿入されます。" preview="code" type="wrap"><insertText location="beforeSelection"><![CDATA[<?php echo SITE?>]]></insertText><insertText location="afterSelection"><![CDATA[]]></insertText></snippet>

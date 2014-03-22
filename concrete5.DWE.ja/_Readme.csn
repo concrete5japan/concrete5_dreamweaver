@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="!!_説明" description="その他の表示方法を試されたい方は・・・" preview="code" type="wrap"><insertText location="beforeSelection"><![CDATA[<!--日付のフォーマットの説明についてはhttp://www.php.net/manual/ja/function.date.phpをご覧下さい-->]]></insertText><insertText location="afterSelection"><![CDATA[]]></insertText></snippet>

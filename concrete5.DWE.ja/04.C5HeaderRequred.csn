@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="04.C5ヘッダー要素配置" description="concrete5 で生成されるメタタグやjavascriptなどの情報を生成する為のコードです。" preview="code" type="block"><insertText location="beforeSelection"><![CDATA[<?php  Loader::element('header_required'); ?>]]></insertText><insertText location="afterSelection"><![CDATA[]]></insertText></snippet>

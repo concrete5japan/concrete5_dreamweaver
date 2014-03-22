@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="02.今年を表示" description="今年の西暦を表示します。" preview="code" type="block"><insertText location="beforeSelection"><![CDATA[<?php echo date('Y')?>]]></insertText><insertText location="afterSelection"><![CDATA[]]></insertText></snippet>

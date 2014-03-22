@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="タイムゾーン" description="どこの地域の時刻か、タイムゾーンを表示します" preview="code" type="wrap"><insertText location="beforeSelection"><![CDATA[<?php echo date('T')?>]]></insertText><insertText location="afterSelection"><![CDATA[]]></insertText></snippet>

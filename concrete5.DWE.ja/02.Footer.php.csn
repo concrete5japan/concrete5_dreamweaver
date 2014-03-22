@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="02.Footer.phpを読み込む" description="テーマディレクトリー/elements/footer.php ファイルを組み込む為のコードです。フッターを他のページタイプと共用させたい方向けです。" preview="code" type="block"><insertText location="beforeSelection"><![CDATA[<?php $this->inc('elements/footer.php'); ?>]]></insertText><insertText location="afterSelection"><![CDATA[]]></insertText></snippet>

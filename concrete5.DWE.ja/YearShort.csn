@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="年 2桁" description="今年の西暦を2桁で表示します" preview="code" type="wrap"><insertText location="beforeSelection"><![CDATA[<?php echo date('y')?>]]></insertText><insertText location="afterSelection"><![CDATA[]]></insertText></snippet>

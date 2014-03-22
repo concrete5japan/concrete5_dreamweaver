@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="01.Header.phpを読み込む" description="テーマディレクトリー/elements/header.php ファイルを読み込む為のコードです。ヘッダーなどを他のページタイプと共用されたい方用" preview="code" type="block"><insertText location="beforeSelection"><![CDATA[<?php $this->inc('elements/header.php'); ?>]]></insertText><insertText location="afterSelection"><![CDATA[]]></insertText></snippet>

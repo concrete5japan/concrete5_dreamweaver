@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><snippet name="HTMLブロック" description="HTMLブロック周りのCSS要素集です" preview="code" type="block"><insertText location="beforeSelection"><![CDATA[/* html ブロック用 */div.htmlblock {}]]></insertText><insertText location="afterSelection"><![CDATA[]]></insertText></snippet>
