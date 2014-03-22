@@ -39,7 +39,8 @@ How to delete/uninstall
 
 
 
-Katz Ueno
-concrete5 Japan Users Group
-http://concrete5-japan.org/dreamweaver/en/
-http://katzueno.com/
+- Katz Ueno
+-- concrete5 Japan Users Group
+-- @katz515
+-- http://concrete5-japan.org/dreamweaver/en/
+-- http://katzueno.com/
